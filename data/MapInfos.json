@@ -11,5 +11,5 @@ null,
 {"id":9,"expanded":true,"name":"Auberge","order":9,"parentId":3,"scrollX":1123,"scrollY":680},
 {"id":10,"expanded":true,"name":"Entrée de la crypte","order":10,"parentId":3,"scrollX":1390.2857142857142,"scrollY":776.5714285714286},
 {"id":11,"expanded":false,"name":"Sélection du personnage","order":8,"parentId":3,"scrollX":1132,"scrollY":634},
-{"id":12,"expanded":false,"name":"Crypte","order":11,"parentId":10,"scrollX":1768.5,"scrollY":2086.5}
+{"id":12,"expanded":false,"name":"Crypte","order":11,"parentId":10,"scrollX":1761,"scrollY":2078.5}
 ]
