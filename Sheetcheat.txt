@@ -1,0 +1,13 @@
+//Personnages
+1) guerrier
+2) Archère
+3) Magicienne
+4) Voleur
+
+
+//Supprimer event depuis une variable
+if($gameVariables.value(id_variables) == Value)
+{$gameMap.eraseEvent(id_events);}
+
+//Afficher bulles
+$gameMap.event(id_personnage).requestBalloon(id_ballon);
