@@ -1,6 +1,6 @@
-- Ajouter 300 PO par personnage qui rejoint l'équipe
-- Si on quitte l'Auberge et qu'il nous reste encore des PO, faire en sorte que le marchand nous interpelle pour nous demander si on souhaite lui acheter quelque chose.
-- Mettre un icône avec une pièce d'or dans une bulle au-dessus du marchand.
+- OK|Ajouter 300 PO par personnage qui rejoint l'équipe
+- OK|Si on quitte l'Auberge et qu'il nous reste encore des PO, faire en sorte que le marchand nous interpelle pour nous demander si on souhaite lui acheter quelque chose.
+- OK|Mettre un icône avec une pièce d'or dans une bulle au-dessus du marchand.
 - Faire en sorte qu'on ne puisse pas réinviter la personne à faire équipe
 - Corriger le bug de la porte verrouillée (si on sélectionne "non", ça nous redemande si on veut la crocheter)
 - Fusionner les deux événements en processus parallèle pour n'en faire qu'un seul (plus propre).
@@ -11,3 +11,5 @@
 - Faire en sorte qu'après avoir activé les 3 interrupteurs, les grilles s'ouvrent (dans le donjon).
 - Faire en sorte que les "slimes" nous voient à distance (plugin yanfly) et se dirigent vers nous pour nous attaquer (lancement du combat lors d'une interraction event-joueur ou joueur-event).
 - Faire en sorte qu'on puisse trouver quelques pièces d'or dans les pots (après interraction, le pot doit se briser pour qu'on ait une confirmation visuelle de l'interaction avec celui-ci).
+- Musique dans l'auberge
+- Animation des personnages
