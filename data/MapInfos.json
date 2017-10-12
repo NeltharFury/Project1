@@ -10,7 +10,7 @@ null,
 {"id":8,"expanded":false,"name":"TESTS","order":5,"parentId":0,"scrollX":1786.909090909091,"scrollY":1005.8181818181819},
 {"id":9,"expanded":true,"name":"Auberge","order":9,"parentId":3,"scrollX":1123,"scrollY":694},
 {"id":10,"expanded":false,"name":"Profondeurs","order":11,"parentId":3,"scrollX":4899,"scrollY":2133.5},
-{"id":11,"expanded":false,"name":"Sélection du personnage","order":8,"parentId":3,"scrollX":1121,"scrollY":620},
-{"id":12,"expanded":false,"name":"Souterrains","order":10,"parentId":3,"scrollX":1786,"scrollY":1651.5},
+{"id":11,"expanded":false,"name":"Sélection du personnage","order":8,"parentId":3,"scrollX":1129,"scrollY":627.5},
+{"id":12,"expanded":false,"name":"Souterrains","order":10,"parentId":3,"scrollX":1515,"scrollY":1452.5},
 {"id":13,"expanded":false,"name":"Abysses","order":12,"parentId":3,"scrollX":1129,"scrollY":1747.5}
 ]
