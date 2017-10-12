@@ -11,6 +11,6 @@ null,
 {"id":9,"expanded":true,"name":"Auberge","order":9,"parentId":3,"scrollX":1131,"scrollY":881.5},
 {"id":10,"expanded":false,"name":"Profondeurs","order":11,"parentId":3,"scrollX":4899,"scrollY":2133.5},
 {"id":11,"expanded":false,"name":"Sélection du personnage","order":8,"parentId":3,"scrollX":1129,"scrollY":627.5},
-{"id":12,"expanded":false,"name":"Souterrains","order":10,"parentId":3,"scrollX":1786,"scrollY":1651.5},
+{"id":12,"expanded":false,"name":"Souterrains","order":10,"parentId":3,"scrollX":1278,"scrollY":912.5},
 {"id":13,"expanded":false,"name":"Abysses","order":12,"parentId":3,"scrollX":1129,"scrollY":1747.5}
 ]

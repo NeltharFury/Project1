@@ -11,6 +11,6 @@
 - OK|Préparer un événement commun "Pousser" pour pousser des rochers dans le donjon (aptitude du guerrier).
 - OK|Faire en sorte qu'on puisse pousser les rochers dans le donjon (événement commun).
 - OK|Faire en sorte qu'on puisse passer au-dessus et en-dessous des ponts dans le donjon.
-- Faire en sorte qu'après avoir activé les 3 interrupteurs, les grilles s'ouvrent (dans le donjon).
+- OK|Faire en sorte qu'après avoir activé les 3 interrupteurs, les grilles s'ouvrent (dans le donjon).
 - Faire en sorte que les "slimes" nous voient à distance (plugin yanfly) et se dirigent vers nous pour nous attaquer (lancement du combat lors d'une interraction event-joueur ou joueur-event).
-- Faire en sorte qu'on puisse trouver quelques pièces d'or dans les pots (après interraction, le pot doit se briser pour qu'on ait une confirmation visuelle de l'interaction avec celui-ci).
+- OK|Faire en sorte qu'on puisse trouver quelques pièces d'or dans les pots (après interraction, le pot doit se briser pour qu'on ait une confirmation visuelle de l'interaction avec celui-ci).
