@@ -14,14 +14,14 @@
 - OK|Faire en sorte qu'après avoir activé les 3 interrupteurs, les grilles s'ouvrent (dans le donjon).
 - Faire en sorte que les "slimes" nous voient à distance (plugin yanfly) et se dirigent vers nous pour nous attaquer (lancement du combat lors d'une interraction event-joueur ou joueur-event).
 - OK|Faire en sorte qu'on puisse trouver quelques pièces d'or dans les pots (après interraction, le pot doit se briser pour qu'on ait une confirmation visuelle de l'interaction avec celui-ci).
-- Bug : Lorsqu'on crochette la porte de l'Auberge, les sons ne sont pas dans le bon ordre (on entend une ouverture de porte avant qu'il ait commencé de la crocheter).
-- Ne gagner que 2 PO par pot dans le donjon.
-- Faire en sorte que les pots utilisent l'événement commun "casser pot"
-- Mettre quelques frames d'attente entre le son "Break" et "coin" car les deux se jouent presque en même temps et on ne peut pas bien les dissocier (à l'oreille).
+- OK|Bug : Lorsqu'on crochette la porte de l'Auberge, les sons ne sont pas dans le bon ordre (on entend une ouverture de porte avant qu'il ait commencé de la crocheter).
+- OK|Ne gagner que 2 PO par pot dans le donjon.
+- OK|Faire en sorte que les pots utilisent l'événement commun "casser pot"
+- OK|Mettre quelques frames d'attente entre le son "Break" et "coin" car les deux se jouent presque en même temps et on ne peut pas bien les dissocier (à l'oreille).
 - Diminuer la luminosité du donjon (pour le rendre plus sombre et lugubre).
 - Ajouter des bulles avec comme icône l'objet qui est looté (lorsqu'on casse un pot ou qu'on ouvre un coffre).
-- À l'entrée du donjon, faire en sorte que la magicienne puisse allumer la première torche (celle qui est éteinte). De cette manière, la porte s'ouvre et on peut ensuite passer (il faut faire en sorte qu'elle soit verrouillée).
-- Faire en sorte qu'on puisse marcher sur les interrupteur pour les activer.
-- Bug : Voir s'il est possible de faire en sorte que la bulle, dans l'auberge, disparaisse au bon moment lorsqu'on invite quelqu'un à rejoindre le groupe (elle disparait un peu tardivement). (au pire, voir si on peut pas utiliser le plugin plutôt que le script ?).
+- OK|À l'entrée du donjon, faire en sorte que la magicienne puisse allumer la première torche (celle qui est éteinte). De cette manière, la porte s'ouvre et on peut ensuite passer (il faut faire en sorte qu'elle soit verrouillée).
+- OK|Faire en sorte qu'on puisse marcher sur les interrupteur pour les activer.
+- NON(c'est plus du code pour ça)|Bug : Voir s'il est possible de faire en sorte que la bulle, dans l'auberge, disparaisse au bon moment lorsqu'on invite quelqu'un à rejoindre le groupe (elle disparait un peu tardivement). (au pire, voir si on peut pas utiliser le plugin plutôt que le script ?).
 - Voir pour un plugin de gestion des lumières pour l'ambiance du jeu (surtout du donjon).
 - GodMode : Lorsqu'on sélectionne le personnage, lorsqu'on refuse 3 fois de suite, un personnage de classe "Héro" (avec la capacité de tous les autres personnages) peut être joué.
