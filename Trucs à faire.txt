@@ -25,3 +25,5 @@
 - NON(c'est plus du code pour ça)|Bug : Voir s'il est possible de faire en sorte que la bulle, dans l'auberge, disparaisse au bon moment lorsqu'on invite quelqu'un à rejoindre le groupe (elle disparait un peu tardivement). (au pire, voir si on peut pas utiliser le plugin plutôt que le script ?).
 - Voir pour un plugin de gestion des lumières pour l'ambiance du jeu (surtout du donjon).
 - GodMode : Lorsqu'on sélectionne le personnage, lorsqu'on refuse 3 fois de suite, un personnage de classe "Héro" (avec la capacité de tous les autres personnages) peut être joué.
+- Voir s'il y a moyen de choisir le sexe du personnage au début du jeu (il y a l'équivalent Homme/Femme pour chaque classe)
+- Voir si on peut choisir le nom de chaque personnage (au moment de la sélection et avant qu'ils rejoignent le groupe)
