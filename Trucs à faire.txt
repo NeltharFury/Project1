@@ -1,3 +1,15 @@
+- Faire en sorte que les "slimes" nous voient à distance (plugin yanfly) et se dirigent vers nous pour nous attaquer (lancement du combat lors d'une interraction event-joueur ou joueur-event).
+- Diminuer la luminosité du donjon (pour le rendre plus sombre et lugubre).
+- Ajouter des bulles avec comme icône l'objet qui est looté (lorsqu'on casse un pot ou qu'on ouvre un coffre).
+- NON(c'est plus du code pour ça)|Bug : Voir s'il est possible de faire en sorte que la bulle, dans l'auberge, disparaisse au bon moment lorsqu'on invite quelqu'un à rejoindre le groupe (elle disparait un peu tardivement). (au pire, voir si on peut pas utiliser le plugin plutôt que le script ?).
+- Voir pour un plugin de gestion des lumières pour l'ambiance du jeu (surtout du donjon).
+- GodMode : Lorsqu'on sélectionne le personnage, lorsqu'on refuse 3 fois de suite, un personnage de classe "Héro" (avec la capacité de tous les autres personnages) peut être joué.
+- Voir s'il y a moyen de choisir le sexe du personnage au début du jeu (il y a l'équivalent Homme/Femme pour chaque classe)
+- Voir si on peut choisir le nom de chaque personnage (au moment de la sélection et avant qu'ils rejoignent le groupe)
+- Afficher l'écran de sauvegarde juste après avoir quitté l'auberge
+
+- OK|Rajouter une petite secousse de l'écran lorsqu'un bouton est enclenché.
+- OK|Bug : Il y aun bruit de pas lorsque la porte à côté du bateau s'ouvre (le supprimer).
 - OK|Ajouter 300 PO par personnage qui rejoint l'équipe
 - OK|Si on quitte l'Auberge et qu'il nous reste encore des PO, faire en sorte que le marchand nous interpelle pour nous demander si on souhaite lui acheter quelque chose.
 - OK|Mettre un icône avec une pièce d'or dans une bulle au-dessus du marchand.
@@ -5,28 +17,18 @@
 - OK|Corriger le bug de la porte verrouillée (si on sélectionne "non", ça nous redemande si on veut la crocheter)
 - OK|Fusionner les deux événements en processus parallèle pour n'en faire qu'un seul (plus propre).
 - OK|Faire en sorte qu'on ne puisse pas quitter l'Auberge si on n'a pas recruté 3 personnes dans le groupe (sinon, c'est la merde pour le gameplay dans le donjon et les interactions entre les personnages).
-- Musique dans l'auberge
-- Animation des personnages
-
 - OK|Préparer un événement commun "Pousser" pour pousser des rochers dans le donjon (aptitude du guerrier).
 - OK|Faire en sorte qu'on puisse pousser les rochers dans le donjon (événement commun).
 - OK|Faire en sorte qu'on puisse passer au-dessus et en-dessous des ponts dans le donjon.
 - OK|Faire en sorte qu'après avoir activé les 3 interrupteurs, les grilles s'ouvrent (dans le donjon).
-- Faire en sorte que les "slimes" nous voient à distance (plugin yanfly) et se dirigent vers nous pour nous attaquer (lancement du combat lors d'une interraction event-joueur ou joueur-event).
 - OK|Faire en sorte qu'on puisse trouver quelques pièces d'or dans les pots (après interraction, le pot doit se briser pour qu'on ait une confirmation visuelle de l'interaction avec celui-ci).
 - OK|Bug : Lorsqu'on crochette la porte de l'Auberge, les sons ne sont pas dans le bon ordre (on entend une ouverture de porte avant qu'il ait commencé de la crocheter).
 - OK|Ne gagner que 2 PO par pot dans le donjon.
 - OK|Faire en sorte que les pots utilisent l'événement commun "casser pot"
 - OK|Mettre quelques frames d'attente entre le son "Break" et "coin" car les deux se jouent presque en même temps et on ne peut pas bien les dissocier (à l'oreille).
-- Diminuer la luminosité du donjon (pour le rendre plus sombre et lugubre).
-- Ajouter des bulles avec comme icône l'objet qui est looté (lorsqu'on casse un pot ou qu'on ouvre un coffre).
 - OK|À l'entrée du donjon, faire en sorte que la magicienne puisse allumer la première torche (celle qui est éteinte). De cette manière, la porte s'ouvre et on peut ensuite passer (il faut faire en sorte qu'elle soit verrouillée).
 - OK|Faire en sorte qu'on puisse marcher sur les interrupteur pour les activer.
-- NON(c'est plus du code pour ça)|Bug : Voir s'il est possible de faire en sorte que la bulle, dans l'auberge, disparaisse au bon moment lorsqu'on invite quelqu'un à rejoindre le groupe (elle disparait un peu tardivement). (au pire, voir si on peut pas utiliser le plugin plutôt que le script ?).
-- Voir pour un plugin de gestion des lumières pour l'ambiance du jeu (surtout du donjon).
-- GodMode : Lorsqu'on sélectionne le personnage, lorsqu'on refuse 3 fois de suite, un personnage de classe "Héro" (avec la capacité de tous les autres personnages) peut être joué.
-- Voir s'il y a moyen de choisir le sexe du personnage au début du jeu (il y a l'équivalent Homme/Femme pour chaque classe)
-- Voir si on peut choisir le nom de chaque personnage (au moment de la sélection et avant qu'ils rejoignent le groupe)
-- Afficher l'écran de sauvegarde juste après avoir quitté l'auberge
-- Rajouter une petite secousse de l'écran lorsqu'un bouton est enclenché.
-- Bug : Il y aun bruit de pas lorsque la porte à côté du bateau s'ouvre (le supprimer).
+- Musique dans l'auberge
+- Animation des personnages
+
+

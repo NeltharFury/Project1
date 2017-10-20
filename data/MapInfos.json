@@ -8,9 +8,13 @@ null,
 {"id":6,"expanded":false,"name":"Intérieur","order":3,"parentId":1,"scrollX":811,"scrollY":453},
 {"id":7,"expanded":false,"name":"Donjon","order":4,"parentId":1,"scrollX":811,"scrollY":453},
 {"id":8,"expanded":false,"name":"TESTS","order":5,"parentId":0,"scrollX":819,"scrollY":461},
+<<<<<<< HEAD
 {"id":9,"expanded":true,"name":"Auberge","order":9,"parentId":3,"scrollX":1060,"scrollY":671},
+=======
+{"id":9,"expanded":true,"name":"Auberge","order":9,"parentId":3,"scrollX":1129,"scrollY":711.5},
+>>>>>>> master
 {"id":10,"expanded":false,"name":"Profondeurs","order":11,"parentId":3,"scrollX":1129,"scrollY":628},
-{"id":11,"expanded":false,"name":"Initialisation","order":8,"parentId":3,"scrollX":819,"scrollY":461},
-{"id":12,"expanded":false,"name":"Souterrains","order":10,"parentId":3,"scrollX":1186,"scrollY":734},
+{"id":11,"expanded":false,"name":"Initialisation","order":8,"parentId":3,"scrollX":1137,"scrollY":635.5},
+{"id":12,"expanded":false,"name":"Souterrains","order":10,"parentId":3,"scrollX":2069,"scrollY":1054.5},
 {"id":13,"expanded":false,"name":"Abysses","order":12,"parentId":3,"scrollX":1129,"scrollY":628}
 ]
